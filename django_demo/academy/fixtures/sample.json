@@ -1,0 +1,38 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$390000$lFUgFnnGOVh4MWEuuAU6gz$hFtMedRuL+9ehHemFItjRyt7c0LW2jx0biCMEy6DSVU=",
+            "last_login": null,
+            "is_superuser": true,
+            "username": "admin",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2022-08-26T08:08:48.041Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "academy.classroom",
+        "pk": 1,
+        "fields": {
+            "name": "b'decreased'",
+            "created": "2022-08-26T07:20:54.526Z",
+            "modified": "2022-08-26T07:20:54.526Z"
+        }
+    },
+    {
+        "model": "academy.classroom",
+        "pk": 2,
+        "fields": {
+            "name": "process",
+            "created": "2022-08-26T07:23:07.470Z",
+            "modified": "2022-08-26T07:23:07.471Z"
+        }
+    }
+]
